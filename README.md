@@ -1,5 +1,4 @@
 #Bug Reports
-==========
 
 ##__My bug reports on the radar__
 
