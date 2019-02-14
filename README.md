@@ -8,3 +8,4 @@ __13103095__: The keyboard appears in portrait when trying to write a review in 
 
 __20931915__: Calling a swift closure in another closure causes stack overflow with Swift 1.2 debug build prior to Xcode 7.0
 
+__47999514__: Sharing a file in a relative url with airdrop from iOS to macOS results a bplist sent.
