@@ -6,6 +6,6 @@ __10909014__: Playing specific mpeg2 .ts file causes AVFoundation/QTKit crash (e
 
 __13103095__: The keyboard appears in portrait when trying to write a review in presented SKStoreProductViewController on iOS 6 on a landscape only app.
 
-__20931915__: Calling a swift closure in another closure causes stack overflow with Swift 1.2 debug build prior to Xcode 7.0
+__20931915__: Calling a swift closure in another closure causes stack overflow with Swift 1.2 debug build prior to Xcode 7.0.
 
-__47999514__: Sharing a file in a relative url with airdrop from iOS to macOS results a bplist sent.
+__47999514__: Sharing a file in a relative url with airdrop from iOS 12 to macOS 10.14 results a bplist sent.
